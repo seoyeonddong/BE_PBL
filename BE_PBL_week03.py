@@ -106,6 +106,5 @@ def main():
         except ValueError as error:
             print(f"오류: {error}")
 
-
 if __name__ == "__main__":
     main()
